@@ -1,0 +1,8 @@
+{
+  "name": "EDUCONNECT - Smart Student Growth & Record Management System",
+  "description": "Enterprise school record management system for Class 1 to Class 10 with strict role-based access control, persistent relational SQL database, attendance tracking, marksheets, audit logging, and academic analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
